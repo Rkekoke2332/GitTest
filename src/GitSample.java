@@ -14,6 +14,8 @@ public class GitSample {
 		// BLAH BLAH BLAH
 		
 		
+		///123123123321123213123
+		
 		//sffssffsfssf
 		// CHANGE NO 3333
 		
@@ -22,17 +24,12 @@ public class GitSample {
 	
 	System.out.println("slfsjlsjfljlfs");
 	
-	
-	
-	
 	changeMe();
-	
 	
 	}
 	
 	public static void changeMe() {
 		System.out.println("CHANGE MEEEEE");	
-		
 		}
 
 }
