@@ -35,6 +35,11 @@ public class GitSample {
 	changeMe();
 	
 	changeMe222();
+	changeMe222();
+	changeMe222();
+	changeMe222();
+	changeMe222();
+	//	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 	
 	}
 	
