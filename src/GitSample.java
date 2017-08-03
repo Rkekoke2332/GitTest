@@ -31,5 +31,10 @@ public class GitSample {
 	public static void changeMe() {
 		System.out.println("CHANGE MEEEEE");	
 		}
+	
+	
+	public static void changeMe222() {
+		System.out.println("Method no.2 - change me 2222");
+	}
 
 }
