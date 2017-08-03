@@ -26,6 +26,8 @@ public class GitSample {
 	
 	changeMe();
 	
+	changeMe222();
+	
 	}
 	
 	public static void changeMe() {
