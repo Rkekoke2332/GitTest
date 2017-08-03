@@ -18,16 +18,6 @@ public class GitSample {
 		// CHANGE NO 3333
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		// change newestttttt
-		//hk
-		
 		// 	AND THEN CHANGE NO444
 	
 	System.out.println("slfsjlsjfljlfs");
