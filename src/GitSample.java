@@ -25,6 +25,14 @@ public class GitSample {
 	System.out.println("slfsjlsjfljlfs");
 	
 	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
+	changeMe();
 	
 	changeMe222();
 	
